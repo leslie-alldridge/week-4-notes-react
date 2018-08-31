@@ -1,0 +1,55 @@
+#app{
+  display: flex;
+  flex-direction: column;
+}
+
+.sideplusstory{
+  display: flex;
+  flex-direction: row;
+}
+
+.storyboard{
+  display: flex;
+  flex-direction: column;
+  margin-left: 10%;
+  min-width: 800px;
+  min-height: 750px;
+  margin-bottom: 50px;
+}
+
+.subtitle {
+  padding-top: 25px;
+  padding-bottom: 10px;
+}
+
+img {
+  max-width: 100px;
+}
+
+
+a {
+  padding-left: 20px;
+  padding-right: 100px;
+}
+
+.head {
+  margin-bottom: 20px;
+}
+
+#bg {
+  background-color: #FF4136;
+}
+
+#span {
+  color:white;
+  font-size: 1.25em;
+  text-decoration-line: none;
+  min-width: 182px;
+  margin-bottom: 10px;
+}
+
+
+
+#emil {
+  max-height: 190px;
+}
